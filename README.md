@@ -11,7 +11,7 @@ Windows 64位
 
 ```
 |──current work directory
-    ├─upload.py
+    ├─upload.py(upload.exe)
     │
     └─config.json
 ```
